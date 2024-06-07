@@ -37,7 +37,7 @@
   <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">          
 </div>
 
-![Snake animation](https://github.com//gilson1236/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gilson1236/gilson1236/blob/output/github-contribution-grid-snake.svg)
 
           
           
